@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string-array name="filtros_array">
+        <item>Seleccionar filtro</item>
+        <item>Inversión o Negativo</item>
+        <item>Escala de grises</item>
+        <item>Brillo</item>
+        <item>Contraste</item>
+        <item>Gamma</item>
+        <item>Separacion de canal: Rojo</item>
+        <item>Separacion de canal: Verde</item>
+        <item>Separacion de canal: Azul</item>
+        <item>Smoothing</item>
+        <item>Gaussian Blur</item>
+        <item>Sharpen</item>
+        <item>Mean Removal</item>
+        <item>Embossing</item>
+        <item>Edge Detection</item>
+        <item>Bosquejo</item>
+        <item>Aumento</item>
+        <item>Matiz</item>
+        <item>Sepia</item>
+        <item>Noise</item>
+    </string-array>
+</resources>
